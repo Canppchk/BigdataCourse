@@ -1,0 +1,4 @@
+ssh hadoop@10.3.135.41 \
+-L 8042:localhost:8042 \
+-L 9864:localhost:9864 \
+-L 9870:localhost:9870
